@@ -1,0 +1,46 @@
+.container {
+    width: 100%;
+    height: 100%;
+}
+.menu{
+    text-align: center;
+}  
+.btn-content{
+    text-align: center;
+    padding-bottom: 15px;
+} 
+button{
+    margin: 0 10px 0 10px;
+    font-size: 20px;
+    border-radius: 12px;
+}
+img{
+    width: 200px;
+    height: 150px;
+    border: 4px solid #e0d29a;
+    border-radius: 12px;
+}
+.menu-item {
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+.nav-container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-row-gap: 20px;
+    padding: 40px 20px;
+}
+.item-content{
+    width: 300px;
+    padding-left: 105px;
+}
+.heading-item {
+    display: flex;
+    justify-content: space-between;
+}
+.p-content{
+    color: 	#C0C0C0;
+}
+.monney{
+    color: #CD853F;
+}

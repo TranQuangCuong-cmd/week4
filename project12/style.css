@@ -1,0 +1,28 @@
+.container {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    padding: 9% 20px;
+}
+img {
+    max-width: 95%;
+}
+.content {
+    width: 100%;
+    height: 300px;
+}
+.dealine {
+    display: flex;
+    padding-top: 20px;
+}
+.dealine-form {
+    padding: 0 25px;
+    margin: 0 20px;
+    background: steelblue;
+    color: whitesmoke;
+    
+}
+h3 {
+    font-size: 25px;
+    color: navy;
+}

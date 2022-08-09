@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 300px;
+    width: 100%;
+}
+.container {
+    height: 300px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 290px;
+    padding-top: 100px;
+}
+button.btn {
+    margin-bottom: 30px;
+    color: #fff;
+    background: sienna;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 10px;
+}
